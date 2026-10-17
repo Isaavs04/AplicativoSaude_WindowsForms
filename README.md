@@ -46,4 +46,5 @@ Projeto pessoal realizado baseado no projeto de calculadora IMC proposto em sala
 4. Good Ware
 5. Pixel perfect
 6. srip
+
 ✦ Site: https://www.flaticon.com/br/
